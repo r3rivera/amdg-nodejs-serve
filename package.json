@@ -1,0 +1,23 @@
+{
+  "name": "amdg-node-serve",
+  "version": "1.0.0",
+  "description": "Prime Estate Backedn Service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r3rivera/amdg-nodejs-serve.git"
+  },
+  "author": "Ryan Rivera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r3rivera/amdg-nodejs-serve/issues"
+  },
+  "homepage": "https://github.com/r3rivera/amdg-nodejs-serve#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
